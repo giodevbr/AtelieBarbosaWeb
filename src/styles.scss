@@ -1,0 +1,155 @@
+@font-face {
+    font-family: 'Rawline Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline Regular'), url('rawline-400.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline Italic'), url('rawline-400i.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline Thin'), url('assets/font/rawline-100.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline Thin Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline Thin Italic'), url('assets/font/rawline-100i.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline ExtraLight';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline ExtraLight'), url('assets/font/rawline-200.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline ExtraLight Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline ExtraLight Italic'), url('assets/font/rawline-200i.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline Light'), url('assets/font/rawline-300.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline Light Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline Light Italic'), url('assets/font/rawline-300i.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline Medium'), url('assets/font/rawline-500.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline Medium Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline Medium Italic'), url('assets/font/rawline-500i.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline SemiBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline SemiBold'), url('assets/font/rawline-600.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline SemiBold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline SemiBold Italic'), url('assets/font/rawline-600i.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline Bold'), url('assets/font/rawline-700.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline Bold Italic'), url('assets/font/rawline-700i.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline ExtraBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline ExtraBold'), url('assets/font/rawline-800.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline ExtraBold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline ExtraBold Italic'), url('assets/font/rawline-800i.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline Black';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline Black'), url('assets/font/rawline-900.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Rawline Black Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rawline Black Italic'), url('assets/font/rawline-900i.woff') format('woff');
+    }
+
+.bg-purple {
+	//background: url(./assets/bg_purple.png);
+	background-repeat: repeat-x;
+	background-size: cover;
+	background-position: left top;
+	height: 100%;
+	overflow: hidden;
+}
+
+body {
+	background-image: url("assets/background.gif");
+}
