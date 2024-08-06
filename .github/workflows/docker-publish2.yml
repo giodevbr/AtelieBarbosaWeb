@@ -22,8 +22,8 @@ jobs:
         name: Login to Docker Hub
         uses: docker/login-action@v2
         with:
-          username: 1giodev
-          password: dckr_pat_r3gL5aK6JQN0mq1atuvdXq_eIYw
+          username: ${{ secrets.DOCKER_HUB_USER }}
+          password: ${{ secrets.DOCKER_HUB_TOKEN }}
       -
         name: Build and push
         uses: docker/build-push-action@v3
